@@ -6,3 +6,4 @@
 ## 🔰 Beginner 
 - [Day 01:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day01) Working With Variables in Python to Manage Data
 - [Day 02:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day02) Understanding Data Types and How to Manipulate Strings
+- [Day 03:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day03) Control Flow and Logical Operators
