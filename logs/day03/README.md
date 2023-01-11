@@ -3,7 +3,7 @@
 
 ![](treasure-island.gif)
 
-[Replit @RD3NI - Treasure Island](test)
+[Replit @RD3NI - Treasure Island](https://replit.com/@RD3NI/treasure-island)
 
 ## Exercises 
 ### Exercise 1 - Odd or Even
