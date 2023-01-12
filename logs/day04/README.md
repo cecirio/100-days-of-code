@@ -3,7 +3,7 @@
 
 ![](rock_paper_scissors.gif)
 
-[Replit @RD3NI - Treasure Island](https://replit.com/@RD3NI/rock-paper-scissors)
+[Replit @RD3NI - Rock Paper Scissors](https://replit.com/@RD3NI/rock-paper-scissors)
 
 ## Exercises
 ### Excercise 1 - Heads or Tails
