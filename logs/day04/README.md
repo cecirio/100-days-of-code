@@ -1,4 +1,4 @@
-# Day 4 - Randomisation and Python Lists
+# Day 4 - Randomization and Python Lists
 ## Rock Paper Scissors
 
 ![](rock_paper_scissors.gif)
