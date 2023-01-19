@@ -10,3 +10,4 @@
 - [Day 04:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day04) Randomisation and Python Lists
 - [Day 05:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day05) Python Loops
 - [Day 06:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day06) Python Functions & Karel
+- [Day 07:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day07) Hangman
