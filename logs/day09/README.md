@@ -1,9 +1,9 @@
 # Day 9 - Dictionaries, Nesting and The Secret Auction
-## Silent Auction
+## Blind Auction
 
 ![](silent_auction.gif)
 
-[Replit @RD3NI - Silent Auction](https://replit.com/@RD3NI/silent-auction)
+[Replit @RD3NI - Blind Auction](https://replit.com/@RD3NI/blind-auction)
 
 
 ## Exercises
