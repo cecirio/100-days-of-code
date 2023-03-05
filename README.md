@@ -16,3 +16,4 @@
 - [Day 10:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day10) Functions with Outputs
 - [Day 11:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day11) The Blackjack Capstone Project
 - [Day 12:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day12) Scope & Number Guessing Game
+- [Day 13:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day13) Debugging: How to Find and Fix Errors in Your Code
