@@ -20,3 +20,4 @@
 - [Day 14:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day14) Higher Lower Game Project
 ## 📚 Intermediate
 - [Day 15:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day15) Local Development Environment Setup & The Coffee Machine
+- [Day 16:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day16) Object Oriented Programming (OOP)
