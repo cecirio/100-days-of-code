@@ -6,7 +6,7 @@
 ## Exercises
 - OOP
 - Class Creation & Constructors
-- Working with Attribues 
+- Working with Attributes 
 - Adding Methods
 
 #
