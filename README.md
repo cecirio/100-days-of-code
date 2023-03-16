@@ -21,3 +21,4 @@
 ## 📚 Intermediate
 - [Day 15:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day15) Local Development Environment Setup & The Coffee Machine
 - [Day 16:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day16) Object Oriented Programming (OOP)
+- [Day 17:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day17) The Quiz Project & The Benefits of OOP
