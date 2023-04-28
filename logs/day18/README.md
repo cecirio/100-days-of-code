@@ -1,35 +1,38 @@
 # Day 18 - Turtle & The Graphical User Interface (GUI)
-## <Project Name>
+## Hirst Painting
 
-![](<project_name>.gif)
-
-[Replit @RD3NI - <Project Name>](https://replit.com/@RD3NI/<project-name>)
+![](hirst_painting.gif)
 
 
-## Exercises
-- Python Turtle
-  
-  
-  
-**Instructions:**
-- 
+## Python Turtle Exercises
+- Draw a Square
+- Draw a Dashed Line
+- Drawing Different Shapes
+- Generate a Random Walk
+- Draw a Spirograph
 
-**Input Example:**
-```
-Test
-```
-
-**Output Example:**
-```
-Test
-```
+**Using Colorgram to Extract Colors of a JPG:**
+-
 
 **Code**
 <details><summary>Solution</summary>
 <p>
 
 ```Python
-  print("test")
+import colorgram
+
+# Extract 25 colors from jpg image.
+colors = colorgram.extract("image.jpg", 25)
+
+rgb_colors = []
+for color in colors:
+    r = color.rgb.r
+    g = color.rgb.g
+    b = color.rgb.b
+    new_color = (r, g, b)
+    rgb_colors.append(new_color)
+
+print(rgb_colors)
 ```
 
 </p>
