@@ -23,3 +23,4 @@
 - [Day 16:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day16) Object Oriented Programming (OOP)
 - [Day 17:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day17) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day18) Turtle & The Graphical User Interface (GUI)
+- [Day 19:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day19) Instances, State & Higher Order Functions
