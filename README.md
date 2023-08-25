@@ -25,3 +25,4 @@
 - [Day 18:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day18) Turtle & The Graphical User Interface (GUI)
 - [Day 19:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day19) Instances, State & Higher Order Functions
 - [Day 20:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day20) Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/cecirio/100-days-of-code/tree/main/logs/day21) Build the Snake Game Part 2: Inheritance & List Slicing
