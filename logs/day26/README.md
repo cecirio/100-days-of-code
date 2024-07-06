@@ -1,5 +1,5 @@
 # Day 26 - List Comprehension & the NATO Alphabet
-## <NATO Phonetic Alphabet>
+## NATO Phonetic Alphabet
 
 ![](nato_alphabet.gif)
 
